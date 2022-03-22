@@ -1,3 +1,7 @@
-# Community Template Repo
-
-Template repo with docs and GitHub Actions etc, to create other projects.
+<h1>DEVOPS</h1>
+<body>
+  <ul>
+    <li>coming soon</li>
+  </ul>
+  </body>
+  
